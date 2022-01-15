@@ -1,2 +1,1 @@
-# -database-with-SQLite
-Some practice
+# Simple-Email-with-SQLite
